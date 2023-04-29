@@ -1,0 +1,42 @@
+[
+	{
+		"id": 1,
+		"title": "Apple BYZ S8521",
+		"itemsInBox": 6,
+		"rate": 4.7,
+		"price": 2927,
+		"imgSrc": "Apple BYZ S8521.jpg"
+	},
+	{
+		"id": 2,
+		"title": "Apple EarPods",
+		"itemsInBox": 6,
+		"rate": 4.5,
+		"price": 2327,
+		"imgSrc": "Apple EarPods.jpg"
+	},
+	{
+		"id": 3,
+		"title": "Apple AirPods",
+		"itemsInBox": 6,
+		"rate": 4.7,
+		"price": 9627,
+		"imgSrc": "Apple AirPods.jpg"
+	},
+	{
+		"id": 4,
+		"title": "GERLAX GH-04",
+		"itemsInBox": 6,
+		"rate": 4.7,
+		"price": 6527,
+		"imgSrc": "GERLAX GH-04.jpg"
+	},
+	{
+		"id": 5,
+		"title": "BOROFONE BO4",
+		"itemsInBox": 6,
+		"rate": 4.7,
+		"price": 7527,
+		"imgSrc": "BOROFONE BO4.jpg"
+	}
+]
